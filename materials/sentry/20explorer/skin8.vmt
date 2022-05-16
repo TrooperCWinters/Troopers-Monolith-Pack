@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "sentry/20explorer/skin8"
+	"$bumpmap" "sentry/shared/skin_nm"
+    $envmap "env_cubemap"
+    $envmaptint "[0.05 0.05 0.05]"
+    $envmapfresnel "1"
+   "$normalmapalphaenvmapmask" "1"
+    $phong "1"
+    $phongexponent "37"
+    $phongboost ".2"
+    $phongfresnelranges "[.5 .75 .75]"
+}
+
+
+
+
