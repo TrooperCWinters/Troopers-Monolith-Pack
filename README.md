@@ -1,2 +1,2 @@
-# Troopers-Monolith-Edit
+# Troopers-Monolith-Pack
 A Sound/Texture edit for Monolithservers
